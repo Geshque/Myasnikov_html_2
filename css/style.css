@@ -1,0 +1,58 @@
+h4{
+    font-family: Arial;
+    color: #1f1f1f;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+h1{
+    font-family: Arial;
+    color: #010101;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+h3{
+    font-family: 'Myriad Pro';
+    color:  #1f1f1f;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+body {
+    width: 500px;
+    margin: auto;
+    font-family: Arial;
+    background: #eee;
+}
+.image {
+    margin-left: 100px;
+}
+
+p{
+    margin-left: 40px;
+}
+
+a{
+    margin-left: 40px;
+}
+
+.header {
+    width: 1024px;
+}
+hr{
+    background-color:  rgba(31, 31, 31, 0.22);
+    width: 500px;
+    height: 1px;
+}
+img {
+    border: 1px solid #8f8f8f;
+    background-color:  #0056d3;
+    width: 200px;
+    height: 200px;
+}
+
+.footer
+{
+    height: 30px;
+}
