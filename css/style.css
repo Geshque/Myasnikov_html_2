@@ -7,7 +7,7 @@
     background: #eee;
 }
 
-.header h1
+h1
 {
     margin: 50px auto 26px;
     width: 500px;
@@ -30,7 +30,7 @@
      padding-left: 37px;
  }
 
-.text1 h2
+h2
 {
     width: 500px;
     margin: 23px auto 0;
@@ -38,7 +38,7 @@
     font-weight: bold;
 }
 
-.info
+.info p
 {
     width: 500px;
     margin: 0 auto;
